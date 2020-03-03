@@ -2,6 +2,18 @@
 
 Music Player with Playlist and controls.
 
+# Author
+
+Paul Anthony McGowan
+
+# Demo
+
+https://sleepy-turing-cf76ae.netlify.com/
+
+# Repo
+
+https://github.com/xhostcom/vue-music-player-pwa.git
+
 ## Project setup
 ```
 yarn install
