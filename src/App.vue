@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>Music Player</h1>
+      <h1>Vue Music Player</h1>
     </header>
     <main>
       <section class="player">
