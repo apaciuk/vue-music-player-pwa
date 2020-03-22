@@ -16,6 +16,12 @@ https://sleepy-turing-cf76ae.netlify.com/
 
 https://github.com/xhostcom/vue-music-player-pwa.git
 
+## FAQ
+
+Q: Is this normal?
+
+A: Yes, this is perfectly normal
+
 ## Project setup
 ```
 yarn install
