@@ -8,6 +8,8 @@ Paul Anthony McGowan
 
 # Demo
 
+http://befitting-wax.surge.sh/
+
 https://sleepy-turing-cf76ae.netlify.com/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f9212345-8640-4b91-b1f7-47b0a545a55d/deploy-status)](https://app.netlify.com/sites/sleepy-turing-cf76ae/deploys)
