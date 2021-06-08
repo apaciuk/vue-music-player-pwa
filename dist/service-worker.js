@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4e439a1a41189038758688ddb8020500.js"
+  "/precache-manifest.d4e22cbdb00360f22bcd88bb6674a516.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-music-app-pwa"});
